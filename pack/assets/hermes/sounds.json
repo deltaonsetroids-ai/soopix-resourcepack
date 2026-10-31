@@ -1,7 +1,12 @@
 {
  "judgment.ultima": {
   "subtitle": "Ultima... SLASH!!",
-  "sounds": [{"name": "hermes:judgment/ultima", "stream": false}]
+  "sounds": [
+   {
+    "name": "hermes:judgment/ultima",
+    "stream": false
+   }
+  ]
  },
  "music_disc.overdrive": {
   "sounds": [
@@ -22,6 +27,30 @@
    },
    {
     "name": "hermes:duck/quack3"
+   }
+  ]
+ },
+ "music_disc.tartarus": {
+  "sounds": [
+   {
+    "name": "hermes:records/tartarus",
+    "stream": true
+   }
+  ]
+ },
+ "music_disc.duck_pond": {
+  "sounds": [
+   {
+    "name": "hermes:records/duck_pond",
+    "stream": true
+   }
+  ]
+ },
+ "music_disc.void_rift": {
+  "sounds": [
+   {
+    "name": "hermes:records/void_rift",
+    "stream": true
    }
   ]
  }
