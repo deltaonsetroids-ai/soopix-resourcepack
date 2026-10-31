@@ -1,0 +1,28 @@
+{
+ "judgment.ultima": {
+  "subtitle": "Ultima... SLASH!!",
+  "sounds": [{"name": "hermes:judgment/ultima", "stream": false}]
+ },
+ "music_disc.overdrive": {
+  "sounds": [
+   {
+    "name": "hermes:records/overdrive",
+    "stream": true
+   }
+  ]
+ },
+ "duck.quack": {
+  "subtitle": "Duck quacks",
+  "sounds": [
+   {
+    "name": "hermes:duck/quack1"
+   },
+   {
+    "name": "hermes:duck/quack2"
+   },
+   {
+    "name": "hermes:duck/quack3"
+   }
+  ]
+ }
+}

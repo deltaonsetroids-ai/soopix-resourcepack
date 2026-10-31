@@ -1,0 +1,47 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "supported_formats": [
+      64,
+      107
+    ],
+    "min_format": [
+      64,
+      0
+    ],
+    "max_format": [
+      107,
+      1
+    ],
+    "description": {
+      "text": "Soopix SMP pack: Tool Trims + Throwable Blackhole",
+      "color": "light_purple"
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "min_format": [
+          84,
+          0
+        ],
+        "max_format": [
+          88,
+          0
+        ],
+        "directory": "assets-26-1"
+      },
+      {
+        "min_format": [
+          88,
+          0
+        ],
+        "max_format": [
+          88,
+          0
+        ],
+        "directory": "assets-26-2"
+      }
+    ]
+  }
+}

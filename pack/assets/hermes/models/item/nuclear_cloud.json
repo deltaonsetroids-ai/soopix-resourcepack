@@ -1,0 +1,1 @@
+{"textures": {"cloud": "hermes:item/nuclear_cloud"}, "elements": [{"from": [0, 0, 8], "to": [16, 16, 8], "shade": false, "faces": {"north": {"texture": "#cloud", "uv": [0, 0, 16, 16]}, "south": {"texture": "#cloud", "uv": [0, 0, 16, 16]}}}]}

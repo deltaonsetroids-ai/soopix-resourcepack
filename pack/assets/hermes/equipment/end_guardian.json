@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "hermes:end_guardian"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "hermes:end_guardian"
+      }
+    ]
+  }
+}
