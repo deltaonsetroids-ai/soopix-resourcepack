@@ -1,0 +1,25 @@
+{
+  "tool-trims-compatible.zip": {
+    "sha1": "91bda4835e0e5440f552badf792ac60565422e74",
+    "sha256": "90588a3606e3cb882e004e421bd5ef031814b088c7cc8289df906782bbab1231",
+    "bytes": 2339298,
+    "files": 6103
+  },
+  "soopix-custom-items.zip": {
+    "sha1": "ffc3aedaae1af3397e72826869e446cfa7bd1fc1",
+    "sha256": "a592b7a7b700c6d7389beff0804e5e712569c4ac6b1336456f966de6b11fbe2d",
+    "bytes": 7437874,
+    "files": 2730
+  },
+  "validation": {
+    "armor_assets": 32,
+    "palette_additions": 12,
+    "all_unrelated_payloads_preserved": true,
+    "bettermodel_byte_identical": true,
+    "zero_overlaps": true,
+    "zero_cross_namespace_dependencies": true,
+    "exact_split_union": true,
+    "baseline_url": "https://raw.githubusercontent.com/deltaonsetroids-ai/soopix-resourcepack/08052116fd79e104c51b43fe31bccfcfc0c4dcf1/soopix-pack.zip",
+    "baseline_sha1": "cd6b6a22f647b0d2152c700a3bf471a0c032c5e1"
+  }
+}
